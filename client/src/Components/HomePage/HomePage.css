@@ -1,0 +1,46 @@
+#home {
+    max-width: auto;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+  }
+  
+  .blog-box {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .blog-box:hover {
+    transform: translateY(-5px);
+  }
+  
+  .date {
+    font-size: 0.8rem;
+    color: #888;
+    margin-bottom: 0.5rem;
+  }
+  
+  .title {
+    font-size: 1.4rem;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .content {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 10px 0;
+    color: #666;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+  
